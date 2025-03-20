@@ -11,8 +11,7 @@ Registration Class - Manages new user registration.
 
 Rules Class - Displays quiz rules before the quiz starts.
 
-Quiz Class - Contains quiz questions and logic (including 
-the 50-50 option).
+Quiz Class - Contains quiz questions and logic (including the 50-50 option).
 
 Score Class - Displays the final score after the quiz ends.
 # Features
@@ -22,7 +21,7 @@ Rules Page: Displays the quiz rules before starting.
 
 Interactive Quiz:
     -Multiple-choice questions on Java's static keyword.
-    -50-50 lifeline to remove two incorrect options.
+    -[50-50] lifeline to remove two incorrect options.
     -Next button is enabled only when an option is selected.
 
     
