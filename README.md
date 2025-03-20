@@ -20,6 +20,7 @@ User Authentication: Users must log in or register before taking the quiz.
 Rules Page: Displays the quiz rules before starting.
 
 Interactive Quiz:
+
     Multiple-choice questions on Java's static keyword.
     
     [50-50] lifeline to remove two incorrect options.
