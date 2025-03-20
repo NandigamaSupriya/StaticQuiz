@@ -20,11 +20,11 @@ User Authentication: Users must log in or register before taking the quiz.
 Rules Page: Displays the quiz rules before starting.
 
 Interactive Quiz:
-    -Multiple-choice questions on Java's static keyword.
+    Multiple-choice questions on Java's static keyword.
     
-    -[50-50] lifeline to remove two incorrect options.
+    [50-50] lifeline to remove two incorrect options.
     
-    -Next button is enabled only when an option is selected.
+    Next button is enabled only when an option is selected.
 
     
 Final Score Display: At the end of the quiz, users receive their score.
